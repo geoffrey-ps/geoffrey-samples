@@ -50,6 +50,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{430C32DD-88E6-4532-B6C2-90602D1C5ABB}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "scss-compiling", "scss-compiling\", "{7B8C6934-2935-46E8-B568-1CF1CDE2696B}"
